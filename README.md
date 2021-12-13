@@ -5,7 +5,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gavincapriola/Tetris/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gavincapriola/spaceinvaders/issues).
 
 ## Show your support
 Give a ⭐️ if this project helped you!
